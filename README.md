@@ -212,6 +212,5 @@ Metrics: 95% prediction accuracy
 
 ## 📫 Contact
 
-- **LinkedIn**: [Rutvik Trivedi](https://linkedin.com/in/rutvik-trivedi)
-- **Email**: nihardholaria@gmail.com
+- **LinkedIn**: [Rutvik Trivedi](https://linkedin.com/in/rutviktrivedi29)
 - **GitHub**: [@rutvik29](https://github.com/rutvik29)
